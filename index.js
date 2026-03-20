@@ -58,3 +58,9 @@ console.log('Dividing 10 by 0:', divide(10, 0));
 console.log('Calculation History:', history);
 
 
+module.exports = {
+  add,
+  subtract,
+  multiply,
+  divide
+}
